@@ -11,6 +11,7 @@ The purpose was to analyze Zomato's customer base using two segmentation framewo
 | 2 | Zomato.TB.pbix | The Power BI file containing both dashboards and all visualizations. |
 | 3 | Zomato Customer Analytics Dashboard.pdf | Exported dashboard views for easy sharing and review. |
 | 4 | Zomato Customer Analytics Dashboard.pptx | Full presentation report with findings, recommendations, and next steps. |
+| 5 | Zomato data.zip | Source dataset containing all 5 Zomato data tables: food.csv, menu.csv, orders.csv, restaurant.csv, and users.csv. |
 
 ---
 
