@@ -7,11 +7,11 @@ The purpose was to analyze Zomato's customer base using two segmentation framewo
 ## Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :---------: | ----- | ----------- |
-| 1 | README.md | This current page with all relevant information about the project, just past the Table of Contents. |
-| 2 | Zomato.TB.pbix | The Power BI file containing both dashboards and all visualizations. |
-| 3 | Zomato Customer Analytics Dashboard.pdf | Exported dashboard views for easy sharing and review. |
-| 4 | Zomato Customer Analytics Dashboard.pptx | Full presentation report with findings, recommendations, and next steps. |
-| 5 | Zomato data.zip | Source dataset containing all 5 Zomato data tables: food.csv, menu.csv, orders.csv, restaurant.csv, and users.csv. |
+| 1 | [README.md](README.md) | This current page with all relevant information about the project, just past the Table of Contents. |
+| 2 | [Zomato.TB.pbix](Zomato.TB.pbix) | The Power BI file containing both dashboards and all visualizations. |
+| 3 | [Zomato Customer Analytics Dashboard.pdf](Zomato%20Customer%20Analytics%20Dashboard.pdf) | Exported dashboard views for easy sharing and review. |
+| 4 | [Zomato Customer Analytics Dashboard.pptx](Zomato%20Customer%20Analytics%20Dashboard.pptx) | Full presentation report with findings, recommendations, and next steps. |
+| 5 | [Zomato data.zip](Zomato%20data.zip) | Source dataset containing all 5 Zomato data tables: food.csv, menu.csv, orders.csv, restaurant.csv, and users.csv. |
 
 ---
 
