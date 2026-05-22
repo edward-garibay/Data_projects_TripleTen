@@ -7,9 +7,9 @@ The purpose was to consult the company by reviewing the store's operations and i
 ## Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :---------: | ----- | ----------- |
-| 1 | DataSet - SuperStore.xls | The original data file provided by TripleTen that was used in the analysis of this project. |
-| 2 | README.md | This current page with all relevant information about the project, just past the Table of Contents. |
-| 3 | Sprint 4 Project.twbx | The Tableau packaged workbook containing all visualizations and dashboards. |
+| 1 | [Superstore.xls](Superstore.xls) | The original data file provided by TripleTen that was used in the analysis of this project. |
+| 2 | [README.md](README.md) | This current page with all relevant information about the project, just past the Table of Contents. |
+| 3 | [Sprint 4 Project.pdf](Sprint%204%20Project.pdf) | A PDF export of the Tableau visualizations and dashboard for easy viewing. |
 
 ---
 
