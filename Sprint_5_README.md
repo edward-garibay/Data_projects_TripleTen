@@ -7,9 +7,9 @@ The purpose was to prepare an analysis for the CEO of Superstore to help them un
 ## Table of Contents for Repository Artifacts
 | File Number | Title | Description |
 | :---------: | ----- | ----------- |
-| 1 | DataSet - SuperStore.xls | The original data file provided by TripleTen that was used in this project's analysis. |
-| 2 | README.md | This current page with all relevant information about the project, just past the Table of Contents. |
-| 3 | Sprint 5 Project Pdf.pdf | A PDF version of my project for easy viewing. |
+| 1 | [Superstore.xls](Superstore.xls) | The original data file provided by TripleTen that was used in this project's analysis. |
+| 2 | [README.md](README.md) | This current page with all relevant information about the project, just past the Table of Contents. |
+| 3 | [Sprint 5 Project.twbx](Sprint%205%20Project.twbx) | The Tableau packaged workbook containing all visualizations, dashboard, and story presentation. |
 
 ---
 
