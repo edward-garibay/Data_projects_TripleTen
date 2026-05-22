@@ -9,7 +9,7 @@ The purpose was to explore the effectiveness of the top 50 exercises through a d
 | :---------: | ----- | ----------- |
 | 1 | README.md | This current page with all relevant information about the project, just past the Table of Contents. |
 | 2 | Project_Book_Version_7.twbx | The Tableau packaged workbook containing all dashboards and visualizations. |
-| 3 | Top 50 Excerice for your body.csv | The source dataset — 50 exercises with sets, reps, calories burned, muscle groups, equipment, and difficulty level. |
+| 3 | Top 50 Excerice for your body.zip | The source dataset — 50 exercises with sets, reps, calories burned, muscle groups, equipment, and difficulty level. |
 
 ---
 
